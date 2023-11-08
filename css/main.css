@@ -744,3 +744,9 @@ Recipe Template
   color: var(--primary-500);
   text-transform: capitalize;
 }
+.flex{
+  display:flex
+}
+.backspace{
+  cursor: pointer;
+}
